@@ -1,0 +1,1 @@
+{"name":"Local: dsa1022","url":"c:\\Users\\NGUYEN VAN HUNG\\DSAPTIT\\dsa-code-ptit\\dsa1022.cpp","tests":[{"id":1735702754825,"input":"2\n\n4\n\n1 4 3 2\n\n4\n\n1 2 3 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\NGUYEN VAN HUNG\\DSAPTIT\\dsa-code-ptit\\dsa1022.cpp","group":"local","local":true}

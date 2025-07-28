@@ -1,0 +1,93 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{vietnam} % Gõ tiếng Việt
+\usepackage{amsmath,amssymb} % Gõ công thức toán
+\usepackage[top=2.5cm,bottom=2.5cm,left=2.5cm,right=2.5cm]{geometry} % Căn lề
+%=====Tạo tiêu đề trên và dưới====%
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0.5pt}
+\renewcommand{\footrulewidth}{0.5pt}
+\lhead{Biên soạn: TS. Nguyễn Kiều Linh}
+\rhead{Học viện Công nghệ Bưu chính Viễn thông}
+\lfoot{Số điện thoại 0985059646}
+\fancyfoot[R]{Trang \thepage}
+%=====EndTạo tiêu đề trên và dưới====%
+\usepackage[loigiai]{ex_test} % dethi
+\renewtheorem{ex}{\color{blue} Câu}
+\begin{document}
+\Opensolutionfile{ans}[filedapan]
+\begin{center}
+{\bf\Large BÀI TẬP TOÁN RỜI RẠC 2}
+\end{center}
+\begin{ex}
+Đồ thị bên dưới có mấy đỉnh trụ?
+\begin{center}
+\begin{tikzpicture}[node distance=2cm, every node/.style={circle, draw, minimum size=1cm}]
+  \node (1) at (4.36, 4.40) {1};
+  \node (2) at (2.67, -1.11) {2};
+  \node (3) at (-2.86, -4.26) {3};
+  \node (4) at (0.74, 3.67) {4};
+  \node (5) at (-1.71, -0.82) {5};
+  \node (6) at (3.83, 2.34) {6};
+  \node (7) at (4.17, -1.41) {7};
+  \draw (7) -- (4);
+  \draw (2) -- (4);
+  \draw (7) -- (1);
+  \draw (1) -- (5);
+  \draw (4) -- (3);
+  \draw (6) -- (1);
+  \draw (5) -- (7);
+  \draw (7) -- (3);
+  \draw (1) -- (4);
+  \draw (2) -- (6);
+  \draw (3) -- (2);
+  \draw (6) -- (3);
+  \draw (3) -- (5);
+\end{tikzpicture}
+\end{center}
+
+\choice
+{\True 0}
+{8}
+{4}
+{7}
+\loigiai{}
+\end{ex}
+
+\begin{ex}
+Đồ thị bên dưới có mấy cạnh cầu?
+\begin{center}
+\begin{tikzpicture}[node distance=2cm, every node/.style={circle, draw, minimum size=1cm}]
+  \node (1) at (4.36, 4.40) {1};
+  \node (2) at (2.67, -1.11) {2};
+  \node (3) at (-2.86, -4.26) {3};
+  \node (4) at (0.74, 3.67) {4};
+  \node (5) at (-1.71, -0.82) {5};
+  \node (6) at (3.83, 2.34) {6};
+  \node (7) at (4.17, -1.41) {7};
+  \draw (7) -- (4);
+  \draw (2) -- (4);
+  \draw (7) -- (1);
+  \draw (1) -- (5);
+  \draw (4) -- (3);
+  \draw (6) -- (1);
+  \draw (5) -- (7);
+  \draw (7) -- (3);
+  \draw (1) -- (4);
+  \draw (2) -- (6);
+  \draw (3) -- (2);
+  \draw (6) -- (3);
+  \draw (3) -- (5);
+\end{tikzpicture}
+\end{center}
+
+\choice
+{8}
+{\True 0}
+{3}
+{8}
+\loigiai{}
+\end{ex}
+\Closesolutionfile{ans}
+\end{document}

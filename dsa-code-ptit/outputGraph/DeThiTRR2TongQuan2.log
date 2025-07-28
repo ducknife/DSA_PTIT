@@ -1,0 +1,1430 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.2.28)  28 FEB 2025 12:06
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./DeThiTRR2TongQuan2.tex
+(DeThiTRR2TongQuan2.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/base\article.
+cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.c
+lo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/vntex\vietnam
+.sty
+Package: vietnam 2009/07/12 v1.3 support for Vietnamese
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.s
+ty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.
+sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/vntex\t5enc.d
+ef
+File: t5enc.def 2006/11/21 v1.4 Vietnamese T5 encoding
+Now handling font encoding T5 ...
+... processing UTF-8 mapping file for font encoding T5
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/vntex\t5enc.d
+fu
+File: t5enc.dfu 2006/08/19 v1.1 UTF8 support for Vietnamese
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0128 (decimal 296)
+   defining Unicode char U+0129 (decimal 297)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0168 (decimal 360)
+   defining Unicode char U+0169 (decimal 361)
+   defining Unicode char U+01A0 (decimal 416)
+   defining Unicode char U+01A1 (decimal 417)
+   defining Unicode char U+01AF (decimal 431)
+   defining Unicode char U+01B0 (decimal 432)
+   defining Unicode char U+1EA0 (decimal 7840)
+   defining Unicode char U+1EA1 (decimal 7841)
+   defining Unicode char U+1EA2 (decimal 7842)
+   defining Unicode char U+1EA3 (decimal 7843)
+   defining Unicode char U+1EA4 (decimal 7844)
+   defining Unicode char U+1EA5 (decimal 7845)
+   defining Unicode char U+1EA6 (decimal 7846)
+   defining Unicode char U+1EA7 (decimal 7847)
+   defining Unicode char U+1EA8 (decimal 7848)
+   defining Unicode char U+1EA9 (decimal 7849)
+   defining Unicode char U+1EAA (decimal 7850)
+   defining Unicode char U+1EAB (decimal 7851)
+   defining Unicode char U+1EAC (decimal 7852)
+   defining Unicode char U+1EAD (decimal 7853)
+   defining Unicode char U+1EAE (decimal 7854)
+   defining Unicode char U+1EAF (decimal 7855)
+   defining Unicode char U+1EB0 (decimal 7856)
+   defining Unicode char U+1EB1 (decimal 7857)
+   defining Unicode char U+1EB2 (decimal 7858)
+   defining Unicode char U+1EB3 (decimal 7859)
+   defining Unicode char U+1EB4 (decimal 7860)
+   defining Unicode char U+1EB5 (decimal 7861)
+   defining Unicode char U+1EB6 (decimal 7862)
+   defining Unicode char U+1EB7 (decimal 7863)
+   defining Unicode char U+1EB8 (decimal 7864)
+   defining Unicode char U+1EB9 (decimal 7865)
+   defining Unicode char U+1EBA (decimal 7866)
+   defining Unicode char U+1EBB (decimal 7867)
+   defining Unicode char U+1EBC (decimal 7868)
+   defining Unicode char U+1EBD (decimal 7869)
+   defining Unicode char U+1EBE (decimal 7870)
+   defining Unicode char U+1EBF (decimal 7871)
+   defining Unicode char U+1EC0 (decimal 7872)
+   defining Unicode char U+1EC1 (decimal 7873)
+   defining Unicode char U+1EC2 (decimal 7874)
+   defining Unicode char U+1EC3 (decimal 7875)
+   defining Unicode char U+1EC4 (decimal 7876)
+   defining Unicode char U+1EC5 (decimal 7877)
+   defining Unicode char U+1EC6 (decimal 7878)
+   defining Unicode char U+1EC7 (decimal 7879)
+   defining Unicode char U+1EC8 (decimal 7880)
+   defining Unicode char U+1EC9 (decimal 7881)
+   defining Unicode char U+1ECA (decimal 7882)
+   defining Unicode char U+1ECB (decimal 7883)
+   defining Unicode char U+1ECC (decimal 7884)
+   defining Unicode char U+1ECD (decimal 7885)
+   defining Unicode char U+1ECE (decimal 7886)
+   defining Unicode char U+1ECF (decimal 7887)
+   defining Unicode char U+1ED0 (decimal 7888)
+   defining Unicode char U+1ED1 (decimal 7889)
+   defining Unicode char U+1ED2 (decimal 7890)
+   defining Unicode char U+1ED3 (decimal 7891)
+   defining Unicode char U+1ED4 (decimal 7892)
+   defining Unicode char U+1ED5 (decimal 7893)
+   defining Unicode char U+1ED6 (decimal 7894)
+   defining Unicode char U+1ED7 (decimal 7895)
+   defining Unicode char U+1ED8 (decimal 7896)
+   defining Unicode char U+1ED9 (decimal 7897)
+   defining Unicode char U+1EDA (decimal 7898)
+   defining Unicode char U+1EDB (decimal 7899)
+   defining Unicode char U+1EDC (decimal 7900)
+   defining Unicode char U+1EDD (decimal 7901)
+   defining Unicode char U+1EDE (decimal 7902)
+   defining Unicode char U+1EDF (decimal 7903)
+   defining Unicode char U+1EE0 (decimal 7904)
+   defining Unicode char U+1EE1 (decimal 7905)
+   defining Unicode char U+1EE2 (decimal 7906)
+   defining Unicode char U+1EE3 (decimal 7907)
+   defining Unicode char U+1EE4 (decimal 7908)
+   defining Unicode char U+1EE5 (decimal 7909)
+   defining Unicode char U+1EE6 (decimal 7910)
+   defining Unicode char U+1EE7 (decimal 7911)
+   defining Unicode char U+1EE8 (decimal 7912)
+   defining Unicode char U+1EE9 (decimal 7913)
+   defining Unicode char U+1EEA (decimal 7914)
+   defining Unicode char U+1EEB (decimal 7915)
+   defining Unicode char U+1EEC (decimal 7916)
+   defining Unicode char U+1EED (decimal 7917)
+   defining Unicode char U+1EEE (decimal 7918)
+   defining Unicode char U+1EEF (decimal 7919)
+   defining Unicode char U+1EF0 (decimal 7920)
+   defining Unicode char U+1EF1 (decimal 7921)
+   defining Unicode char U+1EF2 (decimal 7922)
+   defining Unicode char U+1EF3 (decimal 7923)
+   defining Unicode char U+1EF4 (decimal 7924)
+   defining Unicode char U+1EF5 (decimal 7925)
+   defining Unicode char U+1EF6 (decimal 7926)
+   defining Unicode char U+1EF7 (decimal 7927)
+   defining Unicode char U+1EF8 (decimal 7928)
+   defining Unicode char U+1EF9 (decimal 7929)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+))
+LaTeX Font Info:    Trying to load font information for T5+cmr on input line 11
+2.
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/vntex\t5cmr.f
+d
+File: t5cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+))
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc
+.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/vntex\vncaps.
+tex
+File: vncaps.tex 2006/06/07 v1.1 Captions in Vietnamese
+))
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsma
+th.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amste
+xt.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsge
+n.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen141
+))
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbs
+y.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen142
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsop
+n.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count195
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count196
+\leftroot@=\count197
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count198
+\DOTSCASE@=\count199
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen143
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count266
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count267
+\dotsspace@=\muskip16
+\c@parentequation=\count268
+\dspbrk@lvl=\count269
+\tag@help=\toks20
+\row@=\count270
+\column@=\count271
+\maxfields@=\count272
+\andhelp@=\toks21
+\eqnshift@=\dimen144
+\alignsep@=\dimen145
+\tagshift@=\dimen146
+\tagwidth@=\dimen147
+\totwidth@=\dimen148
+\lineht@=\dimen149
+\@envbody=\toks22
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amss
+ymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsf
+onts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geom
+etry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyv
+al.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks24
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvte
+x.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex
+.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count273
+\Gm@cntv=\count274
+\c@Gm@tempcnt=\count275
+\Gm@bindingoffset=\dimen150
+\Gm@wd@mp=\dimen151
+\Gm@odd@mp=\dimen152
+\Gm@even@mp=\dimen153
+\Gm@layoutwidth=\dimen154
+\Gm@layoutheight=\dimen155
+\Gm@layouthoffset=\dimen156
+\Gm@layoutvoffset=\dimen157
+\Gm@dimlist=\toks25
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geom
+etry.cfg))
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fanc
+yhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip53
+\f@nch@offset@elh=\skip54
+\f@nch@offset@erh=\skip55
+\f@nch@offset@olh=\skip56
+\f@nch@offset@orh=\skip57
+\f@nch@offset@elf=\skip58
+\f@nch@offset@erf=\skip59
+\f@nch@offset@olf=\skip60
+\f@nch@offset@orf=\skip61
+\f@nch@height=\skip62
+\f@nch@footalignment=\skip63
+\f@nch@widthL=\skip64
+\f@nch@widthC=\skip65
+\f@nch@widthR=\skip66
+\@temptokenb=\toks26
+) (ex_test.sty
+Package: ex_test 15/03/2024 for Ex_test version 3.0 beta 6, Tran Anh Tuan and D
+uong Phuoc Sang
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/ntheorem\nthe
+orem.sty
+Style `ntheorem', Version 1.33 <2011/08/15>
+Package: ntheorem 2011/08/15 1.33
+\theorem@style=\toks27
+\theorem@@style=\toks28
+\theorembodyfont=\toks29
+\theoremnumbering=\toks30
+\theorempreskipamount=\skip67
+\theorempostskipamount=\skip68
+\theoremframepreskipamount=\skip69
+\theoremframepostskipamount=\skip70
+\theoreminframepreskipamount=\skip71
+\theoreminframepostskipamount=\skip72
+\theorem@preskip=\toks31
+\theorem@postskip=\toks32
+\theorem@framepreskip=\toks33
+\theorem@framepostskip=\toks34
+\theorem@inframepreskip=\toks35
+\theorem@inframepostskip=\toks36
+\theoremindent=\dimen158
+\theorem@indent=\dimen159
+\theoremrightindent=\dimen160
+\theorem@rightindent=\dimen161
+\theoremheaderfont=\toks37
+\theoremseparator=\toks38
+\theoremprework=\toks39
+\theorempostwork=\toks40
+\theoremsymbol=\toks41
+\qedsymbol=\toks42
+\theoremkeyword=\toks43
+\qedsymbol=\toks44
+\thm@topsep=\skip73
+\thm@topsepadd=\skip74
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtab
+le.sty
+Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
+\LTleft=\skip75
+\LTright=\skip76
+\LTpre=\skip77
+\LTpost=\skip78
+\LTchunksize=\count276
+\LTcapwidth=\dimen162
+\LT@head=\box53
+\LT@firsthead=\box54
+\LT@foot=\box55
+\LT@lastfoot=\box56
+\LT@gbox=\box57
+\LT@cols=\count277
+\LT@rows=\count278
+\c@LT@tables=\count279
+\c@LT@chunks=\count280
+\LT@p@ftn=\toks45
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/xtab\xtab.sty
+Package: xtab 2011/07/31 v2.3f Extended supertabular package
+\c@tracingst=\count281
+\PWSTcapht=\dimen163
+\ST@wd=\dimen164
+\ST@rightskip=\skip79
+\ST@leftskip=\skip80
+\ST@parfillskip=\skip81
+\c@PWSTtable=\count282
+\PWSTlastpage=\count283
+\PWSTpenultimate=\count284
+\PWSTcurpage=\count285
+\PWSTtempc=\count286
+\PWSTlines=\count287
+\PWST@lastht=\dimen165
+\PWST@generalht=\dimen166
+\PWST@ht=\dimen167
+\ST@pageleft=\dimen168
+\ST@headht=\dimen169
+\ST@tailht=\dimen170
+\ST@pagesofar=\dimen171
+\ST@pboxht=\dimen172
+\ST@lineht=\dimen173
+\ST@stretchht=\dimen174
+\ST@prevht=\dimen175
+\ST@toadd=\dimen176
+\ST@dimen=\dimen177
+\ST@pbox=\box58
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.s
+ty
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen178
+\ar@mcellbox=\box59
+\extrarowheight=\dimen179
+\NC@list=\toks46
+\extratabsurround=\skip82
+\backup@length=\skip83
+\ar@cellbox=\box60
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/tools\multico
+l.sty
+Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
+\c@tracingmulticols=\count288
+\mult@box=\box61
+\multicol@leftmargin=\dimen180
+\c@unbalance=\count289
+\c@collectmore=\count290
+\doublecol@number=\count291
+\multicoltolerance=\count292
+\multicolpretolerance=\count293
+\full@width=\dimen181
+\page@free=\dimen182
+\premulticols=\dimen183
+\postmulticols=\dimen184
+\multicolsep=\skip84
+\multicolbaselineskip=\skip85
+\partial@page=\box62
+\last@line=\box63
+\mc@boxedresult=\box64
+\maxbalancingoverflow=\dimen185
+\mult@rightbox=\box65
+\mult@grightbox=\box66
+\mult@firstbox=\box67
+\mult@gfirstbox=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\c@minrows=\count294
+\c@columnbadness=\count295
+\c@finalcolumnbadness=\count296
+\last@try=\dimen186
+\multicolovershoot=\dimen187
+\multicolundershoot=\dimen188
+\mult@nat@firstbox=\box105
+\colbreak@box=\box106
+\mc@col@check@num=\count297
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/multirow\mult
+irow.sty
+Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
+\multirow@colwidth=\skip86
+\multirow@cntb=\count298
+\multirow@dima=\skip87
+\bigstrutjot=\dimen189
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumera
+te.sty
+Package: enumerate 2023/07/04 v3.00 enumerate extensions (DPC)
+\@enLab=\toks47
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/answers\answe
+rs.sty
+Package: answers 2014/08/24 v2.16 Production of solution sheets in LaTeX2e
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbati
+m.sty
+Package: verbatim 2023-11-06 v1.5v LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks48
+\verbatim@line=\toks49
+\verbatim@in@stream=\read2
+))
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendl
+ayer\tikz.sty
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclaye
+r\pgf.sty
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities
+\pgfrcs.sty
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utiliti
+es\pgfutil-common.tex
+\pgfutil@everybye=\toks50
+\pgfutil@tempdima=\dimen190
+\pgfutil@tempdimb=\dimen191
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utiliti
+es\pgfutil-latex.def
+\pgfutil@abb=\box107
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utiliti
+es\pgfrcs.code.tex
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.rev
+ision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclaye
+r\pgfcore.sty
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/graphics\grap
+hicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/graphics\grap
+hics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig
+.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\
+graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\
+pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen192
+\Gin@req@width=\dimen193
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlay
+er\pgfsys.sty
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systeml
+ayer\pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utiliti
+es\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks51
+\pgfkeys@temptoks=\toks52
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utiliti
+es\pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks53
+))
+\pgf@x=\dimen194
+\pgf@y=\dimen195
+\pgf@xa=\dimen196
+\pgf@ya=\dimen197
+\pgf@xb=\dimen198
+\pgf@yb=\dimen199
+\pgf@xc=\dimen256
+\pgf@yc=\dimen257
+\pgf@xd=\dimen258
+\pgf@yd=\dimen259
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count299
+\c@pgf@countb=\count300
+\c@pgf@countc=\count301
+\c@pgf@countd=\count302
+\t@pgf@toka=\toks54
+\t@pgf@tokb=\toks55
+\t@pgf@tokc=\toks56
+\pgf@sys@id@count=\count303
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systeml
+ayer\pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systeml
+ayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systeml
+ayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systeml
+ayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count304
+\pgfsyssoftpath@bigbuffer@items=\count305
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systeml
+ayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor
+.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\
+color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/graphics\math
+color.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
+fmath.code.tex
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
+fmathutil.code.tex)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
+fmathparser.code.tex
+\pgfmath@dimen=\dimen260
+\pgfmath@count=\count306
+\pgfmath@box=\box108
+\pgfmath@toks=\toks57
+\pgfmath@stack@operand=\toks58
+\pgfmath@stack@operation=\toks59
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
+fmathfunctions.code.tex)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
+fmathfunctions.basic.code.tex)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
+fmathfunctions.trigonometric.code.tex)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
+fmathfunctions.random.code.tex)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
+fmathfunctions.comparison.code.tex)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
+fmathfunctions.base.code.tex)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
+fmathfunctions.round.code.tex)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
+fmathfunctions.misc.code.tex)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
+fmathfunctions.integerarithmetics.code.tex)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
+fmathcalc.code.tex)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
+fmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count307
+))
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
+fint.code.tex)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen261
+\pgf@picmaxx=\dimen262
+\pgf@picminy=\dimen263
+\pgf@picmaxy=\dimen264
+\pgf@pathminx=\dimen265
+\pgf@pathmaxx=\dimen266
+\pgf@pathminy=\dimen267
+\pgf@pathmaxy=\dimen268
+\pgf@xx=\dimen269
+\pgf@xy=\dimen270
+\pgf@yx=\dimen271
+\pgf@yy=\dimen272
+\pgf@zx=\dimen273
+\pgf@zy=\dimen274
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen275
+\pgf@path@lasty=\dimen276
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen277
+\pgf@shorten@start@additional=\dimen278
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box109
+\pgf@hbox=\box110
+\pgf@layerbox@main=\box111
+\pgf@picture@serial@count=\count308
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen279
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen280
+\pgf@pt@y=\dimen281
+\pgf@pt@temp=\dimen282
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen283
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen284
+\pgf@sys@shading@range@num=\count309
+\pgf@shadingcount=\count310
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box112
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules
+\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box113
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules
+\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibi
+lity\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen285
+\pgf@nodesepend=\dimen286
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibi
+lity\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities
+\pgffor.sty
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities
+\pgfkeys.sty
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utiliti
+es\pgfkeys.code.tex))
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfm
+ath.sty
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
+fmath.code.tex))
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utiliti
+es\pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen287
+\pgffor@skip=\dimen288
+\pgffor@stack=\toks60
+\pgffor@toks=\toks61
+))
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fronten
+dlayer/tikz\tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/librari
+es\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count311
+\pgfplotmarksize=\dimen289
+)
+\tikz@lastx=\dimen290
+\tikz@lasty=\dimen291
+\tikz@lastxsaved=\dimen292
+\tikz@lastysaved=\dimen293
+\tikz@lastmovetox=\dimen294
+\tikz@lastmovetoy=\dimen295
+\tikzleveldistance=\dimen296
+\tikzsiblingdistance=\dimen297
+\tikz@figbox=\box114
+\tikz@figbox@bg=\box115
+\tikz@tempbox=\box116
+\tikz@tempbox@bg=\box117
+\tikztreelevel=\count312
+\tikznumberofchildren=\count313
+\tikznumberofcurrentchild=\count314
+\tikz@fig@count=\count315
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules
+\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count316
+\pgfmatrixcurrentcolumn=\count317
+\pgf@matrix@numberofcolumns=\count318
+)
+\tikz@expandcount=\count319
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fronten
+dlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.st
+y
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count320
+\calc@Bcount=\count321
+\calc@Adimen=\dimen298
+\calc@Bdimen=\dimen299
+\calc@Askip=\skip88
+\calc@Bskip=\skip89
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count322
+\calc@Cskip=\skip90
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fronten
+dlayer/tikz/libraries\tikzlibrarybackgrounds.code.tex
+File: tikzlibrarybackgrounds.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@layerbox@background=\box118
+\pgf@layerboxsaved@background=\box119
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoo
+lbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count323
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/probsoln\prob
+soln.sty
+Package: probsoln 2017/07/10 v3.05 (NLCT)
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyv
+al.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xke
+yval.tex
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkv
+utils.tex
+\XKV@toks=\toks62
+\XKV@tempa@toks=\toks63
+)
+\XKV@depth=\count324
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\probsoln@write=\write4
+\probsoln@startyear=\count325
+\probsoln@startmonth=\count326
+\probsoln@prev=\write5
+\probsoln@used=\write6
+\probsoln@prev@cutoff=\count327
+\@probN=\count328
+\@probselN=\count329
+\@rndselctr=\count330
+\r@ndcur=\count331
+\@ps@randtmp=\count332
+\@shfctr=\count333
+\@shfA=\count334
+\@shfB=\count335
+\@ps@forrand=\count336
+\@ps@forrand@level=\count337
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/picinpar\pici
+npar.sty
+Pictures in Paragraphs. Version 1.2a, July 13, 1993
+\br=\count338
+\bl=\count339
+\na=\count340
+\nb=\count341
+\tcdsav=\count342
+\tcl=\count343
+\tcd=\count344
+\tcn=\count345
+\cumtcl=\count346
+\cumpartcl=\count347
+\lftside=\dimen300
+\rtside=\dimen301
+\hpic=\dimen302
+\vpic=\dimen303
+\strutilg=\dimen304
+\picwd=\dimen305
+\topheight=\dimen306
+\ilg=\dimen307
+\lpic=\dimen308
+\lwindowsep=\dimen309
+\rwindowsep=\dimen310
+\cumpar=\dimen311
+\twa=\toks64
+\la=\toks65
+\ra=\toks66
+\ha=\toks67
+\pictoc=\toks68
+\rawtext=\box120
+\holder=\box121
+\windowbox=\box122
+\wartext=\box123
+\finaltext=\box124
+\aslice=\box125
+\bslice=\box126
+\wbox=\box127
+\wstrutbox=\box128
+\picbox=\box129
+\waslice=\box130
+\wbslice=\box131
+\fslice=\box132
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varw
+idth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box133
+\sift@deathcycles=\count348
+\@vwid@loff=\dimen312
+\@vwid@roff=\dimen313
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\math
+rsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/filecontents\
+filecontents.sty
+Package: filecontents 2023/04/02 v1.5a Create an external file from within a La
+TeX document
+
+
+Package filecontents Warning: This package is obsolete. Disabling it and
+(filecontents)                passing control to the filecontents environment
+(filecontents)                defined by the LaTeX kernel.
+
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstri
+ng.sty
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xst
+ring.tex
+\xs_counta=\count349
+\xs_countb=\count350
+)
+Package: xstring 2023/08/22 v1.86 String manipulations (CT)
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl
+3.sty
+Package: expl3 2024-01-04 L3 programming layer (loader) 
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3b
+ackend-pdftex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count351
+\l__pdf_internal_box=\box134
+))
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xp
+arse\xparse.sty
+Package: xparse 2023-10-10 L3 Experimental document command parser
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/eepic\epic.st
+y
+Enhancements to Picture Environment. Version 1.2 - Released June 1, 1986
+\@@multicnt=\count352
+\d@lta=\count353
+\@delta=\dimen314
+\@@delta=\dimen315
+\@gridcnt=\count354
+\@joinkind=\count355
+\@dotgap=\dimen316
+\@ddotgap=\dimen317
+\@x@diff=\count356
+\@y@diff=\count357
+\x@diff=\dimen318
+\y@diff=\dimen319
+\@dotbox=\box135
+\num@segments=\count358
+\num@segmentsi=\count359
+\@datafile=\read4
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/cntformats\cn
+tformats.sty
+Package: cntformats 2014/07/20 v0.7 A different way to read counters. (CN)
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/cnltx\cnltx-b
+ase.sty
+Package: cnltx-base 2019/11/01 v0.15 LaTeX tools and documenting facilities (CN
+)
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/pgfopts\pgfop
+ts.sty
+Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
+\pgfopts@list@add@a@toks=\toks69
+\pgfopts@list@add@b@toks=\toks70
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltx
+cmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\
+pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\i
+nfwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+\c@cnltx@tmpa=\count360
+\c@cnltx@tmpb=\count361
+\c@cnltx@tmpc=\count362
+\cnltx@tmpa@length=\skip91
+\cnltx@tmpb@length=\skip92
+\cnltx@tmpc@length=\skip93
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\tr
+imspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)))
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xt
+emplate\xtemplate.sty
+Package: xtemplate 2023-10-10 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen320
+\l__xtemplate_tmp_int=\count363
+\l__xtemplate_tmp_muskip=\muskip17
+\l__xtemplate_tmp_skip=\skip94
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/environ\envir
+on.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enum
+item.sty
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\labelindent=\skip95
+\enit@outerparindent=\dimen321
+\enit@toks=\toks71
+\enit@inbox=\box136
+\enit@count@id=\count364
+\enitdp@description=\count365
+)
+\linepar=\dimen322
+\paroutindent=\skip96
+\lineheight=\skip97
+\c@iftcbcounter=\count366
+\wsh=\skip98
+\hsh=\skip99
+\dsh=\skip100
+\c@Solshort=\count367
+\c@dapan=\count368
+\c@numTrue=\count369
+\c@numTrueSol=\count370
+\widthalpha=\skip101
+\widthalphaT=\skip102
+\widthalphaF=\skip103
+\widthcha=\skip104
+\widthchb=\skip105
+\widthchc=\skip106
+\widthchd=\skip107
+\widthche=\skip108
+\widthch=\skip109
+\tabmaxwidth=\skip110
+\fourthtabwidth=\skip111
+\halftabwidth=\skip112
+\fifthtabwidth=\skip113
+\thirdtabwidth=\skip114
+\wmothai=\skip115
+\wmothaiba=\skip116
+\wmothaibabon=\skip117
+\wbonnam=\skip118
+\wbabonnam=\skip119
+\whaibabonnam=\skip120
+\c@numChoice=\count371
+\tabcolsep=\skip121
+\lengthDS=\skip122
+\dorongfix=\skip123
+\dorong=\skip124
+\c@Solbook=\count372
+\c@Solution=\count373
+
+WARNING: environment Solution already in use
+\c@ex=\count374
+\c@vdex=\count375
+\heightline=\dimen323
+\widthimmini=\dimen324
+\heightimmini=\dimen325
+\heighttextimmini=\dimen326
+\himmini=\dimen327
+\spaceleft=\dimen328
+\imbox=\box137
+\imboxtext=\box138
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fronten
+dlayer/tikz/libraries\tikzlibrarydecorations.pathreplacing.code.tex
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fronten
+dlayer/tikz/libraries\tikzlibrarydecorations.code.tex
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules
+\pgfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen329
+\pgfdecoratedremainingdistance=\dimen330
+\pgfdecoratedinputsegmentcompleteddistance=\dimen331
+\pgfdecoratedinputsegmentremainingdistance=\dimen332
+\pgf@decorate@distancetomove=\dimen333
+\pgf@decorate@repeatstate=\count376
+\pgfdecorationsegmentamplitude=\dimen334
+\pgfdecorationsegmentlength=\dimen335
+)
+\tikz@lib@dec@box=\box139
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/librari
+es/decorations\pgflibrarydecorations.pathreplacing.code.tex))
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fronten
+dlayer/tikz/libraries\tikzlibrarydecorations.markings.code.tex
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/librari
+es/decorations\pgflibrarydecorations.markings.code.tex))
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fronten
+dlayer/tikz/libraries\tikzlibrarypatterns.code.tex
+File: tikzlibrarypatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/librari
+es\pgflibrarypatterns.code.tex
+File: pgflibrarypatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+\myboxans=\box140
+\c@exrd=\count377
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fronten
+dlayer/tikz/libraries\tikzlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/pgf/librari
+es\pgflibraryplotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+\l__listsEX_depth_int=\count378
+\g__listsEX_int=\count379
+\g__listsEX_total_items_int=\count380
+\l__listsEX_columns_int=\count381
+\l__listsEX_rows_int=\count382
+\g__listsEX_current_col_num_int=\count383
+\g__listsEX_current_row_num_int=\count384
+\l__listsEX_item_columns_int=\count385
+\l__listsEX_item_indent_dim=\dimen336
+\l__listsEX_item_default_indent_dim=\dimen337
+\l__listsEX_item_width_dim=\dimen338
+\l__listsEX_label_width_dim=\dimen339
+\l__listsEX_label_default_width_dim=\dimen340
+\l__listsEX_label_offset_dim=\dimen341
+\l__listsEX_label_default_offset_dim=\dimen342
+\l__listsEX_column_sep_dim=\dimen343
+\l__listsEX_after_item_skip=\skip125
+\l__listsEX_custom_after_item_skip=\skip126
+\l__listsEX_before_list_skip=\skip127
+\l__listsEX_after_list_skip=\skip128
+\l__listsEX_item_coffin=\box141
+\l__listsEX_label_coffin=\box142
+\c@listEX=\count386
+\l__listsEX_tmpa_int=\count387
+\l__listsEX_tmpb_int=\count388
+\l__listsEX_tmpa_coffin=\box143
+
+Package xtemplate Info: Declaring object type 'listsEX' taking 3 argument(s)
+(xtemplate)             on line 2367.
+
+\l__listsEX_choice_width_dim=\dimen344
+\l__listsEX_choice_linewidth_dim=\dimen345
+\l__listsEX_choice_checkwidth_dim=\dimen346
+\l__listsEX_choice_raise_dim=\dimen347
+) (DeThiTRR2TongQuan2.aux)
+\openout1 = `DeThiTRR2TongQuan2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=702.78308pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\s
+upp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count389
+\scratchdimen=\dimen348
+\scratchbox=\box144
+\nofMPsegments=\count390
+\nofMParguments=\count391
+\everyMPshowfont=\toks72
+\MPscratchCnt=\count392
+\MPscratchDim=\dimen349
+\MPnumerator=\count393
+\makeMPintoPDFobject=\count394
+\everyMPtoPDFconversion=\toks73
+)
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\
+epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext
+.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekey
+s\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvo
+ptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvs
+etkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epst
+opdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Output from handle ans going to filedapan.tex
+\ans@file=\write7
+\openout7 = `filedapan.tex'.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 24.
+
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa
+.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 24.
+
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb
+.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 24
+.
+
+(C:\Users\NGUYEN VAN HIEU\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursf
+s.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+\tf@thm=\write8
+\openout8 = `DeThiTRR2TongQuan2.thm'.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[1{C:/Users/NGUYEN VAN HIEU/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+
+]
+(DeThiTRR2TongQuan2.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 20219 strings out of 474486
+ 407041 string characters out of 5738999
+ 1936542 words of memory out of 5000000
+ 42073 multiletter control sequences out of 15000+600000
+ 566142 words of font info for 60 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 117i,11n,121p,559b,839s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/NGUYEN VAN HIEU/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/symbols/msam10.pfb><C:/Users/NGUYEN VAN HIEU/AppData/Local/Programs/MiKT
+eX/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/NGUYEN VAN HIEU/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/vntex/vnr/vnr12.pfb>
+Output written on DeThiTRR2TongQuan2.pdf (1 page, 43280 bytes).
+PDF statistics:
+ 24 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+
