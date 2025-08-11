@@ -44,11 +44,13 @@ int main(){
             cin >> x >> y >> c;
             if (mp.find(x) == mp.end()){
                 mp[x] = new node(x);
-                if (root == NULL) root = mp[x];
+                if (!root) root = mp[x];
             }
-            if (mp.find(y) == mp.end()) mp[y] = new node(y);
-            if (c == 'L') mp[x]->left = mp[y];
-            else mp[x]->right = mp[y];
+            node *par = mp[x];
+            node *child = new node(y);
+            if (c == 'L') par->left = child;
+            else par->right = child;
+            mp[y] = child;
         }
         depthOfLeaf(root, 0);
         bool check = true;

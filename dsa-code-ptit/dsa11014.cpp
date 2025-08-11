@@ -7,9 +7,6 @@
 #define fio() ios::sync_with_stdio(0); cin.tie(0);
 
 using namespace std;
-
-vector<int> adj[1005];
-bool visited[1005];
 const int INF = 1e9;
 int sum = 0;
 
@@ -53,7 +50,8 @@ int main(){
             if (c == 'L') mp[x]->left = child;
             else mp[x]->right = child;
             mp[y] = child;
-        }
+        }  
+        
         sumRightLeafs(root);
         cout << sum << endl;
     }

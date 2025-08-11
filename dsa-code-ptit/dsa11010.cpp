@@ -3,7 +3,6 @@
 #define ull unsigned long long
 #define MOD 1000000007
 #define MAXN 10000005
-#define endl "\n"
 #define ii pair<int, int>
 #define fio() ios::sync_with_stdio(0); cin.tie(0);
 
@@ -11,51 +10,51 @@ using namespace std;
 
 vector<int> adj[1005];
 bool visited[1005];
-int dep[10005];
-bool checkInternal = true, checkDepthNode = true;
+const int INF = 1e9;
+int height;
 
 struct node{
     int val;
-    node *left, *right;
-    node(int x){
+    node *left;
+    node *right;
+    node (int x){
         val = x;
         left = right = NULL;
     }
 };
 
-void hasTwoNodes(node *root){
-    if (!root) return;
-    if (root->left == NULL && root->right != NULL || (root->left != NULL && root->right == NULL)){
-        checkInternal = false;
-        return;
-    }
-    hasTwoNodes(root->left);
-    hasTwoNodes(root->right);
+bool isPerfect(node* root, int depth, int level = 0) {
+    if (!root) return true;
+    if (!root->left && !root->right)
+        return depth == level;
+
+    if (!root->left || !root->right)
+        return false;
+
+    return isPerfect(root->left, depth, level + 1) &&
+           isPerfect(root->right, depth, level + 1);
 }
 
-void depth(node *root, int d){
-    if (!root) return;
-    if (root->left == NULL && root->right == NULL){
-        dep[root->val] = d;
-        return;
+int treeDepth(node* node) {
+    int d = 0;
+    while (node) {
+        d++;
+        node = node->left;
     }
-    depth(root->left, d + 1);
-    depth(root->right, d + 1);
+    return d;
 }
-
 int main(){
     fio();
     /* ducknife */
     int t; cin >> t;
     while (t--){
         int n; cin >> n;
-        node *root = NULL;
         map<int, node*> mp;
-        memset(dep, 0, sizeof(dep));
+        height = 0;
+        node *root = NULL;
         for (int i = 1; i <= n; i++){
             int x, y;
-            char c;
-            cin >> x >> y >> c;
+            char c; cin >> x >> y >> c;
             if (mp.find(x) == mp.end()){
                 mp[x] = new node(x);
                 if (!root) root = mp[x];
@@ -65,24 +64,9 @@ int main(){
             else mp[x]->right = child;
             mp[y] = child;
         }
-        hasTwoNodes(root);
-        depth(root, 0);
-        int level = -1;
-        for (int i = 1; i <= 10000; i++){
-            if (dep[i]){
-                level = dep[i];
-                break;
-            }
-        }
-        for (int i = 1; i <= 10000; i++){
-            if (dep[i] && dep[i] != level){
-                checkDepthNode = false;
-                break;
-            }
-        }
-        if (checkInternal && checkDepthNode) cout << "Yes" << endl;
-        else cout << "No" << endl;
-        checkDepthNode = checkInternal = true;
+        int d = treeDepth(root);
+        cout << isPerfect(root, d) << endl;         
+        height = 0;
     }
     return 0;
 }

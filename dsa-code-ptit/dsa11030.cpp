@@ -3,17 +3,24 @@
 #define ull unsigned long long
 #define MOD 1000000007
 #define MAXN 10000005
+#define ii pair<int, int>
 #define fio() ios::sync_with_stdio(0); cin.tie(0);
 
 using namespace std;
 
 vector<int> adj[1005];
 bool visited[1005];
+const int INF = 1e9;
 
-void dfs(int u){
+int d[1005][1005];
+
+void dfs(int u, int par){
     visited[u] = true;
     for (int v : adj[u]){
-        if (!visited[v]) dfs(v);
+        if (!visited[v]){
+            d[par][v] = d[par][u] + 1; 
+            dfs(v, par);
+        }
     }
 }
 int main(){
@@ -21,34 +28,24 @@ int main(){
     /* ducknife */
     int t; cin >> t;
     while (t--){
+        memset(d, 0, sizeof(d));
         memset(visited, false, sizeof(visited));
-        for (auto &i : adj) i.clear();
-        int n, m; cin >> n >> m;
-        for (int i = 1; i <= m; i++){
+        int n; cin >> n;
+        for (int i = 1; i <= n; i++) adj[i].clear();
+        for (int i = 1; i <= n - 1; i++){
             int x, y; cin >> x >> y;
             adj[x].push_back(y);
             adj[y].push_back(x);
         }
-        int cnt_bf = 0;
-        for (int i = 1; i <= n; i++){
-            if (!visited[i]){
-                cnt_bf++;
-                dfs(i);
-            }
-        }
         for (int i = 1; i <= n; i++){
             memset(visited, false, sizeof(visited));
-            visited[i] = 1;
-            int cnt_af = 0;
-            for (int j = 1; j <= n; j++){
-                if (!visited[j]){
-                    cnt_af++;
-                    dfs(j);
-                }
-            }
-            if (cnt_af > cnt_bf) cout << i << " ";
+            dfs(i, i);
         }
-        cout << endl;
+        int q; cin >> q;
+        while (q--){
+            int x, y; cin >> x >> y;
+            cout << d[x][y] << endl;
+        }
     }
     return 0;
 }
