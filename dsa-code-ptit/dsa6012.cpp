@@ -13,15 +13,13 @@ bool visited[1005];
 int main(){
     fio();
     /* ducknife */
-    ll dp[100] = {0};
-    dp[0] = 1, dp[1] = 1, dp[2] = 2;
-    for (int i = 3; i <= 50; i++){
-        dp[i] = dp[i - 1] + dp[i - 2] + dp[i - 3];
-    }
     int t; cin >> t;
     while (t--){
-        int n; cin >> n;
-        cout << dp[n] << endl;
+        int n, k; cin >> n >> k;
+        int a[n]; for (int &x : a) cin >> x;
+        sort(a, a + n, greater<int>());
+        for (int i = 0; i < k; i++) cout << a[i] << " ";
+        cout << endl;
     }
     return 0;
 }

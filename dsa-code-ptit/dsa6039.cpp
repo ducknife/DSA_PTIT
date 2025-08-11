@@ -16,15 +16,21 @@ int main(){
     int t; cin >> t;
     while (t--){
         int n; cin >> n;
-        set<int>se;
-        int a[n]; 
+        int a[n];
+        map<int, int> mp;
         for (int &x : a){
             cin >> x;
-            se.insert(x);
+            mp[x]++;
         }
-        sort(a, a + n);
-        int cnt = a[n - 1] - a[0] + 1;
-        cout << cnt - se.size() << endl;
+        bool check = false;
+        for (int i = 0; i < n; i++){
+            if (mp[a[i]] >= 2) {
+                cout << a[i] << endl;
+                check = true;
+                break;
+            }
+        }
+        if (!check) cout << "NO" << endl;
     }
     return 0;
 }

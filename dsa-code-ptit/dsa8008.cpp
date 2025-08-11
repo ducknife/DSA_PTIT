@@ -12,16 +12,22 @@ bool visited[1005];
 
 int main(){
     fio();
-    /* ducknife */
-    ll dp[100] = {0};
-    dp[0] = 1, dp[1] = 1, dp[2] = 2;
-    for (int i = 3; i <= 50; i++){
-        dp[i] = dp[i - 1] + dp[i - 2] + dp[i - 3];
-    }
+    /* ducknife */  
     int t; cin >> t;
     while (t--){
         int n; cin >> n;
-        cout << dp[n] << endl;
+        queue<string> q;
+        q.push("1");
+        while (!q.empty()){
+            string x = q.front();
+            q.pop();
+            if (stoll(x) % n == 0){
+                cout << x << endl;
+                break;
+            }
+            q.push(x + "0");
+            q.push(x + "1");
+        }
     }
     return 0;
 }

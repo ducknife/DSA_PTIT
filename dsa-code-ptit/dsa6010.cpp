@@ -13,15 +13,14 @@ bool visited[1005];
 int main(){
     fio();
     /* ducknife */
-    ll dp[100] = {0};
-    dp[0] = 1, dp[1] = 1, dp[2] = 2;
-    for (int i = 3; i <= 50; i++){
-        dp[i] = dp[i - 1] + dp[i - 2] + dp[i - 3];
-    }
     int t; cin >> t;
     while (t--){
         int n; cin >> n;
-        cout << dp[n] << endl;
+        set<char> se;
+        string s; getline(cin >> ws, s);
+        for (char x : s) if (isdigit(x)) se.insert(x);
+        for (char x : se) cout << x << " ";
+        cout << endl;
     }
     return 0;
 }
