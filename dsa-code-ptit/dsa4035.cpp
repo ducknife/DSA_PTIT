@@ -7,19 +7,17 @@
 
 using namespace std;
 
-int mod = 123456789;
-
 vector<int> adj[1005];
 bool visited[1005];
 
-ll powmod(ll a, ll b){
-    a %= mod;
+ll binpow(ll a, ll b){
+    a %= MOD;
     ll res = 1;
     while (b){
         if (b % 2){
-            res = (res * a) % mod;
+            res = (res * a) % MOD;
         }
-        a = (a * a) % mod;
+        a = (a * a) % MOD;
         b /= 2;
     }
     return res;
@@ -28,10 +26,12 @@ ll powmod(ll a, ll b){
 int main(){
     fio();
     /* ducknife */
-    int t; cin >> t;
-    while (t--){
-        ll n; cin >> n;
-        cout << powmod(2, n - 1) << endl;
+    ll x, y;
+    while (cin >> x && cin >> y){
+        if (x == 0 && y == 0) break;
+        else {
+            cout << binpow(x, y) << endl;
+        }
     }
     return 0;
 }

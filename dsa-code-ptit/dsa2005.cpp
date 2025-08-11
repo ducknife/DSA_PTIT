@@ -13,9 +13,14 @@ bool visited[1005];
 int main(){
     fio();
     /* ducknife */
-    int n; cin >> n;
-    int a[n]; for (int &x : a) cin >> x;
-    sort(a, a + n);
-    cout << max({a[0] * a[1], a[0] * a[1] * a[n - 1], a[n - 2] * a[n - 1], a[n - 2] * a[n - 1] * a[n - 3]});
+    int t; cin >> t;
+    while (t--){
+        string s; cin >> s;
+        cout << s << " ";
+        while (next_permutation(s.begin(), s.end())){
+            cout << s << " ";
+        }
+        cout << endl;
+    }
     return 0;
 }

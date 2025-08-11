@@ -10,19 +10,25 @@ using namespace std;
 vector<int> adj[1005];
 bool visited[1005];
 
+void Try(ll tu, ll mau){
+    if (mau % tu == 0){
+        cout << 1 << "/" << mau / tu << endl;
+        return;
+    }
+    ll x = mau / tu + 1;
+    cout << 1 << "/" << x << " + ";
+    ll tu_moi = tu * x - mau;
+    ll mau_moi = mau * x;
+    Try(tu_moi, mau_moi);
+}
+
 int main(){
     fio();
     /* ducknife */
     int t; cin >> t;
     while (t--){
-        int n, k; cin >> n >> k;
-        int a[n]; for (int &x : a) cin >> x;
-        sort(a, a + n);
-        if (n - k < k) k = n - k;
-        int sum1 = 0, sum2 = 0;
-        for (int i = 0; i < k; i++) sum1 += a[i];
-        for (int i = k; i < n; i++) sum2 += a[i];
-        cout << sum2 - sum1 << endl;
+        ll n, m; cin >> n >> m;
+        Try(n, m);
     }
     return 0;
 }

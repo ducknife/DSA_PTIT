@@ -10,12 +10,22 @@ using namespace std;
 vector<int> adj[1005];
 bool visited[1005];
 
+int n;
+string s;
+
+
 int main(){
     fio();
     /* ducknife */
-    int n; cin >> n;
-    int a[n]; for (int &x : a) cin >> x;
-    sort(a, a + n);
-    cout << max({a[0] * a[1], a[0] * a[1] * a[n - 1], a[n - 2] * a[n - 1], a[n - 2] * a[n - 1] * a[n - 3]});
+    int t; cin >> t;
+    int cnt = 1;
+    while (t--){
+        cin >> n >> s;
+        cout << cnt++ << " ";
+        if (!next_permutation(s.begin(), s.end())) cout << "BIGGEST" << endl;
+        else {
+            cout << s << endl;
+        }
+    }
     return 0;
 }

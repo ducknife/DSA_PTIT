@@ -16,20 +16,23 @@ int main(){
     int t; cin >> t;
     while (t--){
         int n; cin >> n;
-        ll a[n];
-        priority_queue<ll, vector<ll>, greater<ll>> pq;
-        for (ll &x : a){
-            cin >> x;
-            pq.push(x);
+        priority_queue<int, vector<int>, greater<int>> q;
+        for (int i = 0; i < n; i++){
+            int x; cin >> x;
+            q.push(x);
         }
-        ll fee = 0;
-        while (pq.size() > 1){
-            ll x = pq.top(); pq.pop();
-            ll y = pq.top(); pq.pop();
-            pq.push(x + y);
-            fee += x + y;
+        int fee = 0;
+        while (q.size() > 1){
+            int x = q.top();
+            q.pop();
+            int y = q.top();
+            q.pop();
+            q.push((x % MOD + y % MOD) % MOD);
+            fee += (x % MOD + y % MOD) % MOD;
+            fee %= MOD;
         }
         cout << fee << endl;
     }
+    
     return 0;
 }

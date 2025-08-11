@@ -16,20 +16,20 @@ int main(){
     int t; cin >> t;
     while (t--){
         int n; cin >> n;
-        ll a[n];
-        priority_queue<ll, vector<ll>, greater<ll>> pq;
-        for (ll &x : a){
-            cin >> x;
-            pq.push(x);
+        queue<string> q;
+        q.push("9");
+        while (!q.empty()){
+            string x = q.front();
+            q.pop();
+            if (stoll(x) % n == 0){
+                cout << x << endl;
+                break;
+            }
+            else {
+                q.push(x + "0");
+                q.push(x + "9");
+            }
         }
-        ll fee = 0;
-        while (pq.size() > 1){
-            ll x = pq.top(); pq.pop();
-            ll y = pq.top(); pq.pop();
-            pq.push(x + y);
-            fee += x + y;
-        }
-        cout << fee << endl;
     }
     return 0;
 }

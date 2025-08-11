@@ -16,17 +16,11 @@ ll rev(ll n){
     }
     return tmp;
 }
-ll binpow(ll a, ll b){
-    a %= MOD;
-    ll res = 1;
-    while (b){
-        if (b % 2){
-            res = (res * a) % MOD;
-        }
-        a = (a * a) % MOD;
-        b /= 2;
-    }
-    return res;
+ll binpow(ll n, ll k){
+    if (k == 1) return n;
+    ll res = binpow(n, k / 2) % MOD;
+    if (k % 2) return ((res * res) % MOD) * n % MOD;
+    else return (res * res) % MOD;
 }
 int main(){
     fio();

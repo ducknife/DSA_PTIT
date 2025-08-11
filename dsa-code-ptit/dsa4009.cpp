@@ -10,7 +10,7 @@ using namespace std;
 vector<int> adj[1005];
 bool visited[1005];
 
-int n, k; 
+ll n;
 
 struct matrix{
     ll x[20][20];
@@ -19,8 +19,8 @@ struct matrix{
         for (int i = 0; i < n; i++){
             for (int j = 0; j < n; j++){
                 res.x[i][j] = 0;
-                for (int k = 0; k < n; k++){
-                    res.x[i][j] += (a.x[i][k] * b.x[k][j]) % MOD;
+                for (int l = 0; l < n; l++){
+                    res.x[i][j] += a.x[i][l] * b.x[l][j];
                     res.x[i][j] %= MOD;
                 }
             }
@@ -29,10 +29,10 @@ struct matrix{
     }
 };
 
-matrix binpow(matrix a, int n){
-    if (n == 1) return a;
-    matrix res = binpow(a, n / 2);
-    if (n % 2) return res * res * a;
+matrix binpow(matrix a, ll k){
+    if (k == 1) return a;
+    matrix res = binpow(a, k / 2);
+    if (k % 2) return res * res * a;
     else return res * res;
 }
 
@@ -41,18 +41,16 @@ int main(){
     /* ducknife */
     int t; cin >> t;
     while (t--){
-        cin >> n >> k;
-        ll res = 0;
+        ll k; cin >> n >> k;
         matrix a;
         for (int i = 0; i < n; i++){
             for (int j = 0; j < n; j++) cin >> a.x[i][j];
         }
-        matrix tmp = binpow(a, k);
+        matrix res = binpow(a, k);
         for (int i = 0; i < n; i++){
-            res += tmp.x[i][n - 1];
-            res %= MOD;
+            for (int j = 0; j < n; j++) cout << res.x[i][j] << " ";
+            cout << endl;
         }
-        cout << res << endl;
     }
     return 0;
 }

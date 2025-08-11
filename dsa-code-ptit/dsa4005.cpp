@@ -9,7 +9,7 @@ using namespace std;
 
 vector<int> adj[1005];
 bool visited[1005];
-    
+
 ull f[100];
 void setup(){
     f[1] = f[2] = 1;

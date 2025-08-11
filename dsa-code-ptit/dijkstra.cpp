@@ -3,19 +3,21 @@
 #define ull unsigned long long
 #define MOD 1000000007
 #define MAXN 10000005
+#define ii pair<int, int>
 #define fio() ios::sync_with_stdio(0); cin.tie(0);
 
 using namespace std;
 
-vector<int> adj[1005];
+vector<ii> adj[1005];
 bool visited[1005];
+int dis[1005], n, m;
 
 int main(){
     fio();
     /* ducknife */
-    int n; cin >> n;
-    int a[n]; for (int &x : a) cin >> x;
-    sort(a, a + n);
-    cout << max({a[0] * a[1], a[0] * a[1] * a[n - 1], a[n - 2] * a[n - 1], a[n - 2] * a[n - 1] * a[n - 3]});
+    int t; cin >> t;
+    while (t--){
+        for (auto &i : adj) i.clear();;
+    }
     return 0;
 }

@@ -25,7 +25,7 @@ int MaxMid(int a[], int l, int h, int mid){
 int MaximumSubArray(int a[], int l, int h){
     if (l == h) return a[l];
     int mid = (l + h) / 2;
-    return max({MaximumSubArray(a, l, mid), MaximumSubArray(a, mid + 1, h), MaxMid(a, l, h, mid)});
+    return m ax({MaximumSubArray(a, l, mid),MaximumSubArray(a, mid + 1, h), MaxMid(a, l, h, mid)});
 }
 
 int main(){
@@ -60,7 +60,7 @@ int main(){
     while (t--){
         int n; cin >> n;
         int a[n]; for (int &x : a) cin >> x;
-        int max_sum = a[0], max_cur = 0;
+        int max_sum = a[0], max_cur = a[0];
         for (int i = 1; i < n; i++){
             max_sum = max(max_sum + a[i], a[i]);
             max_cur = max(max_sum, max_cur);

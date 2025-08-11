@@ -15,14 +15,17 @@ int main(){
     /* ducknife */
     int t; cin >> t;
     while (t--){
-        int n, k; cin >> n >> k;
-        int a[n]; for (int &x : a) cin >> x;
-        sort(a, a + n);
-        if (n - k < k) k = n - k;
-        int sum1 = 0, sum2 = 0;
-        for (int i = 0; i < k; i++) sum1 += a[i];
-        for (int i = k; i < n; i++) sum2 += a[i];
-        cout << sum2 - sum1 << endl;
+        int n, s, m; cin >> n >> s >> m;
+        int day = s - s / 7;
+        if (s * m > n * day) cout << -1 << endl;
+        else {
+            for (int i = 1; i <= day; i++){
+                if (n * i >= s * m){
+                    cout << i << endl;
+                    break;
+                }
+            }
+        }
     }
     return 0;
 }
